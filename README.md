@@ -18,7 +18,7 @@ The goal was to combine **analog data acquisition**, **PWM generation**, and **f
 
 ---
 
-## 💡 Things I Struggled With & What I Learned
+## Things I Struggled With & What I Learned
 
 **1. Understanding the ADC pipeline**  
 At first, it wasn’t clear why the first conversion after switching MUX had to be discarded.  
